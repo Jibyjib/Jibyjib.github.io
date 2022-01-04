@@ -22,7 +22,7 @@ jobs:
           hugo-version: '0.88.1'
           extended: true
       - name: Build
-        run: hugo --minify --source=somephyssomemath
+        run: hugo --minify --source=somephysomemath
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/main' }}
