@@ -28,5 +28,5 @@ jobs:
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./somephyssomemath/public
+          publish_dir: ./somephysomemath/public
           cname: Jibyjib.github.io
