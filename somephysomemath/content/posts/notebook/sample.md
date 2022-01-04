@@ -6,4 +6,4 @@ categories:
 - Notebook
 ---
 
-Sample Notebook Post
+Sample Notebook Post.
