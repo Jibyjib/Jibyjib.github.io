@@ -3,4 +3,4 @@ title = "Contact"
 slug = "contact"
 +++
 
-Follow me, @johndoe.
+You can email me at joshuablack@psu.edu. 
