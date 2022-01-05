@@ -3,4 +3,4 @@ title = "Projects"
 slug = "projects"
 +++
 
-Follow me, @johndoe.
+I will write this soon.
