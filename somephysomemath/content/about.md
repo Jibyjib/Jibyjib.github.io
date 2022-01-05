@@ -10,4 +10,4 @@ Hello! My name is Joshua Black and I am currently a PhD Candidate of the physics
 
 My research interests are related to general relativity and quantum field theory, and how they interplay in the early universe. I am also especially fond of mathematics such as algebra, differential geometry, and analysis.
 
-If you wish to keep up with more of my day-to-day learning you can find that in my notebook, https://somephyssomemath.com/notebook/.
+If you wish to keep up with more of my day-to-day learning you can find that in my [notebook](https://somephyssomemath.com/notebook/).
