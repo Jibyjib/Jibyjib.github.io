@@ -3,6 +3,7 @@ title = 'Sometimes Physics and Sometimes Math'
 
 theme = 'hugo-coder'
 
+math = true
 languageCode = "en"
 defaultContentLanguage = "en"
 paginate = 20
