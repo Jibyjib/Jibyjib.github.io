@@ -6,7 +6,7 @@ categories:
 - General
 ---
 
-Hello! I have been thinking of making a blog of some sort for a while now, but my friend Jim finally convinced me and helped me create this one. His blog can be found [here](locallytrivial.com).
+Hello! I have been thinking of making a blog of some sort for a while now, but my friend Jim finally convinced me and helped me create this one. His blog can be found [here](https://www.locallytrivial.com).
 
 My goal for this blog is baked into the name of the blog, I will talk about phyics sometimes and sometimes I will talk about math. You can expect the majority of my posts going forward to be about general relativity, quantum field theory, algebra, differential geometry, or analysis.
 
