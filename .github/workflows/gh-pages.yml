@@ -29,4 +29,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./somephysomemath/public
-          cname: Jibyjib.github.io
+          cname: https://www.somephysomemath.com

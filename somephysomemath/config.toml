@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://www.somephyssomemath.com'
 title = 'Sometimes Physics and Sometimes Math'
 
 theme = 'hugo-coder'
