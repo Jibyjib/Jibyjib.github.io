@@ -9,9 +9,13 @@ Hello! This is my notebook. I am planning on writing a few sentences every few d
 
 This also should help guide those who come after me. You can see the path that I took to end up where I currently am.
 
+### January 8th 2022
+
+I read and wrote notes for Chapter 33, Representations of the Lorentz Group, of Mark Srednicki's "Quantum Field Theory."
+
 ### January 6th 2022
 
-I wrote up my notes for the end of chapter 3 of Chris J Isham's "Modern Differential Geometry for Physicists." 
+I wrote up my notes for the end of Chapter 3, Vector Fields and n-forms, of Chris J Isham's "Modern Differential Geometry for Physicists." 
 
 ### January 4th 2022
 
