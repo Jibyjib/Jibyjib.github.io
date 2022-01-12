@@ -33,4 +33,15 @@ I found the beginning of this book to be very straightforward until loop correct
 
 So far I have read the first three chapters of this book. I have had some introduction to the subject before, but this has definitely helped me build some extra intuition. I have found a lot of the tie-ins to physics to be very nice. A lot of times books will low ball the physics knowledge, but I have found this book to use examples that are a step-up from other texts.
 
+# Non-Textbooks
+
+## Biographies
+
+### Graham Farmelo - The Strangest Man: The Hidden Life of Paul Dirac, Mystic of the Atom
+
+I read this book in high school, and it was my first introduction to upper level physics. I thought it was well written, and plan to reread it some time in my graduate career. 
+
+### Albert and Joan Baez - A Year in Baghdad
+
+This book follows the life of the Baez family, where the father Albert is physicist on a UNESCO mission to teach physics in Baghdad for a year. I read this book with my father, and we both enjoyed it. It was written in a way, that my father who is not in physics, or STEM for that matter, was able to enjoy the narrative.
 

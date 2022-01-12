@@ -9,6 +9,10 @@ Hello! This is my notebook. I am planning on writing a few sentences every few d
 
 This also should help guide those who come after me. You can see the path that I took to end up where I currently am.
 
+### January 11th 2022
+
+Today was the first day of classes for the day, and I am taking General Relativity II, and Quantum Field Theory II. Since it was the first day, it was mainly review, but I was for QFT we explored representations of the Poincare group, and that discussion followed the second chapter of Steven Weinbergs "The Quantum Theory of Fields I." In GR we discussed extrinsic curvature, such as Gauss' Theorema Egregium, and covered the prequisites to start ADM theory.
+
 ### January 10th 2022
 
 I read and wrote notes for Chapter 34, Left- and right-handed spinor fields, of Mark Srednicki's "Quantum Field Theory."
