@@ -9,9 +9,17 @@ Hello! This is my notebook. I am planning on writing a few sentences every few d
 
 This also should help guide those who come after me. You can see the path that I took to end up where I currently am.
 
+### January 16th 2022
+
+I have read and taken notes for Weinberg's "The Quantum Theory of Fields: Volume I" Sections 2.1 through 2.5. I have also read Srednicki's "Quantum Field Theory" chapter 35, Manipulating spinor indices, and chapter 36, Lagrangians for spinor fields. I have also made a presentation on those two chapters for the QFT course.
+
+### January 13th 2022
+
+Second day of classes for the semester and we covered more of Ch2 of Weinbergs "The Quantum Theory of Fields: Volume I" as well as covered some conformal field theories. In general relativity we covered foliations, Cauchy surfaces, Gauss-Codazzi relations, ADM variables and decompositions.
+
 ### January 11th 2022
 
-Today was the first day of classes for the day, and I am taking General Relativity II, and Quantum Field Theory II. Since it was the first day, it was mainly review, but I was for QFT we explored representations of the Poincare group, and that discussion followed the second chapter of Steven Weinbergs "The Quantum Theory of Fields I." In GR we discussed extrinsic curvature, such as Gauss' Theorema Egregium, and covered the prequisites to start ADM theory.
+Today was the first day of classes for the day, and I am taking General Relativity II, and Quantum Field Theory II. Since it was the first day, it was mainly review, but in for QFT we explored representations of the Poincare group, and that discussion followed the second chapter of Steven Weinbergs "The Quantum Theory of Fields I." In GR we discussed extrinsic curvature, such as Gauss' Theorema Egregium, and covered the prequisites to start ADM theory.
 
 ### January 10th 2022
 
