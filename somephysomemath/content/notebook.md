@@ -9,9 +9,13 @@ Hello! This is my notebook. I am planning on writing a few sentences every few d
 
 This also should help guide those who come after me. You can see the path that I took to end up where I currently am.
 
+### January 17th 2022
+
+I have also read Srednicki's "Quantum Field Theory" chapter 35, Manipulating spinor indices, and chapter 36, Lagrangians for spinor fields. I have also made a presentation on those two chapters for the QFT course.
+
 ### January 16th 2022
 
-I have read and taken notes for Weinberg's "The Quantum Theory of Fields: Volume I" Sections 2.1 through 2.5. I have also read Srednicki's "Quantum Field Theory" chapter 35, Manipulating spinor indices, and chapter 36, Lagrangians for spinor fields. I have also made a presentation on those two chapters for the QFT course.
+I have read and taken notes for Weinberg's "The Quantum Theory of Fields: Volume I" Sections 2.1 "Quantum Mechanics," Section 2.2 "Symmetries," Section 2.3 "Quantum Lorentz Transformations," Section 2.4 "The Poincare Algebra," and Section 2.5 "One-Particle States." I enjoy the way this book presents a lot of QFT using a lot of the math other books stray away from.
 
 ### January 13th 2022
 
