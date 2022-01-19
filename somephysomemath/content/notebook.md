@@ -9,6 +9,10 @@ Hello! This is my notebook. I am planning on writing a few sentences every few d
 
 This also should help guide those who come after me. You can see the path that I took to end up where I currently am.
 
+### January 18th 2022
+
+I gave a presentation on Chapters 35/36 of Mark Srednicki's "Quantum Field Theory." In GR class we Hamiltonian formulation of GR. In doing so we talked about the Hamiltonian constraint and the diffeomorphisms constraints. From these constraints we showed there were only 2x2 actual degrees of freedom. We finished with a discussion on the Dirac Algebra of constraints.
+
 ### January 17th 2022
 
 I have also read Srednicki's "Quantum Field Theory" chapter 35, Manipulating spinor indices, and chapter 36, Lagrangians for spinor fields. I have also made a presentation on those two chapters for the QFT course.
