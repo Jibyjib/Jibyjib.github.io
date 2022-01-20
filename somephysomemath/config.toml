@@ -128,11 +128,11 @@ weight = 2
 url = "posts/"
 
 [[menu.main]]
-name = "Projects"
+name = "Notebook"
 weight = 3
-url = "projects/"
+url = "notebook/"
 
 [[menu.main]]
-name = "Contact me"
+name = "Bookcase"
 weight = 5
-url = "contact/"
+url = "bookcase/"
