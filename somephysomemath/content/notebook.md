@@ -9,13 +9,17 @@ Hello! This is my notebook. I am planning on writing a few sentences every few d
 
 This also should help guide those who come after me. You can see the path that I took to end up where I currently am.
 
+### January 19th 2022
+
+I read Chapter 37, Canonical Quantization of Spinor Fields I, and Chapter 38, Spinor Technology, of Mark Srednicki's "Quantum Field Theory."
+
 ### January 18th 2022
 
 I gave a presentation on Chapters 35/36 of Mark Srednicki's "Quantum Field Theory." In GR class we Hamiltonian formulation of GR. In doing so we talked about the Hamiltonian constraint and the diffeomorphisms constraints. From these constraints we showed there were only 2x2 actual degrees of freedom. We finished with a discussion on the Dirac Algebra of constraints.
 
 ### January 17th 2022
 
-I have also read Srednicki's "Quantum Field Theory" chapter 35, Manipulating spinor indices, and chapter 36, Lagrangians for spinor fields. I have also made a presentation on those two chapters for the QFT course.
+I have also read Srednicki's "Quantum Field Theory" chapter 35, Manipulating Spinor indices, and chapter 36, Lagrangians for Spinor Fields. I have also made a presentation on those two chapters for the QFT course.
 
 ### January 16th 2022
 
@@ -23,7 +27,7 @@ I have read and taken notes for Weinberg's "The Quantum Theory of Fields: Volume
 
 ### January 13th 2022
 
-Second day of classes for the semester and we covered more of Ch2 of Weinbergs "The Quantum Theory of Fields: Volume I" as well as covered some conformal field theories. In general relativity we covered foliations, Cauchy surfaces, Gauss-Codazzi relations, ADM variables and decompositions.
+Second day of classes for the semester and we covered more of Chapter 2 of Weinbergs "The Quantum Theory of Fields: Volume I" as well as covered some conformal field theories. In general relativity we covered foliations, Cauchy surfaces, Gauss-Codazzi relations, ADM variables and decompositions.
 
 ### January 11th 2022
 
@@ -31,7 +35,7 @@ Today was the first day of classes for the day, and I am taking General Relativi
 
 ### January 10th 2022
 
-I read and wrote notes for Chapter 34, Left- and right-handed spinor fields, of Mark Srednicki's "Quantum Field Theory."
+I read and wrote notes for Chapter 34, Left- and Right-Handed Spinor Fields, of Mark Srednicki's "Quantum Field Theory."
 
 ### January 8th 2022
 
