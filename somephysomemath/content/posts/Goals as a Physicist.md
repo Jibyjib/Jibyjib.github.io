@@ -1,6 +1,6 @@
 ---
 title: "Aspirations of being a Physicist"
-date: 2022-01-23
+#date: 2022-01-23
 draft: false
 categories:
 - General

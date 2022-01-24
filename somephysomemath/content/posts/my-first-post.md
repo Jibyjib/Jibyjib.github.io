@@ -1,6 +1,6 @@
 ---
 title: "Introducing Sometimes Physics Sometimes Math"
-date: 2022-01-06
+#date: 2022-01-06
 draft: false
 categories:
 - General
