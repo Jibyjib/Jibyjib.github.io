@@ -9,6 +9,10 @@ Hello! This is my notebook. I am planning on writing a few sentences every few d
 
 This also should help guide those who come after me. You can see the path that I took to end up where I currently am.
 
+### January 22nd 2022
+
+I read Chapter 9, Quantum Field Theory in Curved Spacetime, of Sean Caroll's "Spacetime and Geometry: an Introduction to General Relativity."
+
 ### January 19th 2022
 
 I read Chapter 37, Canonical Quantization of Spinor Fields I, and Chapter 38, Spinor Technology, of Mark Srednicki's "Quantum Field Theory."
