@@ -9,6 +9,10 @@ Hello! This is my notebook. I am planning on writing a few sentences every few d
 
 This also should help guide those who come after me. You can see the path that I took to end up where I currently am.
 
+### January 25th 2022
+
+For QFT class today we covered Chapter 39, Canonical quantization of spinor fields II, and chapter 40 Parity, time reversal, and charge conjugation of Mark Srednicki's "Quantum Field Theory". In General relativity we started a discussion on Einstein-Cartan theory and exterior algebras. For reading I read Appendix A through Appendix C of Carrol's "Spacetime and Geometry: An introduction to General Relativity."
+
 ### January 22nd 2022
 
 I read Chapter 9, Quantum Field Theory in Curved Spacetime, of Sean Caroll's "Spacetime and Geometry: an Introduction to General Relativity."
