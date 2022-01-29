@@ -9,6 +9,14 @@ Hello! This is my notebook. I am planning on writing a few sentences every few d
 
 This also should help guide those who come after me. You can see the path that I took to end up where I currently am.
 
+### January 28th 2022
+
+I read Appendix D, Hypersurfaces, and Appendix E, Stoke's theorem of Sean Caroll's "Spacetime and Geometry: An introduction to General Relativity."
+
+### January 27th 2022
+
+For QFT class we covered Chapter 41, LSZ reduction for spin-one-half particles, and Chapter 42, the free fermion propagator of Mark Srednicki's "Quantum Field Theory." In general relativity we discussed more things about Einstein-Cartan theory and differential geometry. Specifically we talked about the exterior derivative, extended the formalism to now have the covariant exterior derivative, then talked about the curvature of the connection, the torsion of co-frame fields, and ended with the Einstein-Cartan action.
+
 ### January 25th 2022
 
 For QFT class today we covered Chapter 39, Canonical quantization of spinor fields II, and chapter 40 Parity, time reversal, and charge conjugation of Mark Srednicki's "Quantum Field Theory". In General relativity we started a discussion on Einstein-Cartan theory and exterior algebras. For reading I read Appendix A through Appendix C of Carrol's "Spacetime and Geometry: An introduction to General Relativity."
