@@ -9,9 +9,17 @@ Hello! This is my notebook. I am planning on writing a few sentences every few d
 
 This also should help guide those who come after me. You can see the path that I took to end up where I currently am.
 
+### January 30th 2022
+
+I read Chapter 39, Canonical Quantization of Spinor Fields II, in Mark Srednicki's "Quantum Field Theory." I also read Section 3.3, Holst Action and Barbero-Immirzi coupling constant in Carlo Rovelli and Francesca Vidotto's "Covariant Loop Quantum Gravity: An elementary Introduction to QUantum Gravity and Spinfoam Theory."
+
+### January 29th 2022
+
+I read Appendix F, Geodesic Congruences, Appendix G, Conformal Transformations, Appendix H, Conformal Diagrams, Appendix I, The Parallel Propagator, and Appendix J, Noncoordinate Bases of Sean Caroll's "Spacetime and Geometry: An Introduction to General Relativity." This means I have read this book cover to cover now.
+
 ### January 28th 2022
 
-I read Appendix D, Hypersurfaces, and Appendix E, Stoke's theorem of Sean Caroll's "Spacetime and Geometry: An introduction to General Relativity."
+I read Appendix D, Hypersurfaces, and Appendix E, Stoke's theorem of Sean Caroll's "Spacetime and Geometry: An Introduction to General Relativity."
 
 ### January 27th 2022
 

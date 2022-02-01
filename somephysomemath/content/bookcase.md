@@ -13,9 +13,11 @@ I am going to write here which books I have read since the start of second year 
 
 ### Sean Caroll - "An Introduction to General Relativity: Spacetime and Geometry"
 
-So far I have read all but the last chapter, and I have also not read the appendices yet. This book has been used for both my undergrad GR course, as well as the first semester of my graduate GR course.
+I have read this book cover to cover, and found it a good introduction to the topic. If you plan on reading all of the main texts on GR, I would say this is a good starting point.
 
-I believe it is a decent introduction to general relativity, but definitely leaves much to be desired if one is mathematical. If you are trying to get into the topic, and want a working knowledge of the subject, this book works fine. 
+It introduced all of the main topics one would be interested in, but mainly serves as an overview of the landscape, rather than a deep dive into any one topic.
+
+I found the appendices enjoyable, and they are a little story of their own, once you have finished the main text. They should definitely be read sequentially because a lot of them play off the previous appendix. 
 
 ## Quantum Field Theory
 
