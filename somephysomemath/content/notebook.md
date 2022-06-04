@@ -11,7 +11,7 @@ This also should help guide those who come after me. You can see the path that I
 
 ### January 30th 2022
 
-I read Chapter 39, Canonical Quantization of Spinor Fields II, in Mark Srednicki's "Quantum Field Theory." I also read Section 3.3, Holst Action and Barbero-Immirzi coupling constant in Carlo Rovelli and Francesca Vidotto's "Covariant Loop Quantum Gravity: An elementary Introduction to QUantum Gravity and Spinfoam Theory."
+I read Chapter 39, Canonical Quantization of Spinor Fields II, in Mark Srednicki's "Quantum Field Theory." I also read Section 3.3, Holst Action and Barbero-Immirzi coupling constant in Carlo Rovelli and Francesca Vidotto's "Covariant Loop Quantum Gravity: An elementary Introduction to Quantum Gravity and Spinfoam Theory."
 
 ### January 29th 2022
 
